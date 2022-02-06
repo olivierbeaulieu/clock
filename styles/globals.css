@@ -115,3 +115,10 @@ a {
   text-align: center;
   font-size: 12px;
 }
+
+.gh-icon {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  width: 50px;
+}
